@@ -1,0 +1,29 @@
+body{
+background-color: rgb(235, 209, 229);  /* da color al fondo*/
+}
+
+h1 {
+    color: slateblue;
+    text-decoration: underline;             /*h1 Titulo subraya*/
+    text-align: center;                     /*centra texto*/
+    text-transform: uppercase;
+}
+p{
+    color: rgb(152, 36, 138);
+    text-transform: capitalize;                   /* pone las primeras letras en mayusculas */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;                       /*cambia las fuentes*/
+}
+q{
+    font-size: 50px;                        /*tamaño del parrafo*/ 
+    font-weight: bold;      /* grosor del parrafo */   /*/ "bolder"mas grueso aún *    /*font-weight: ligther;  (adelgaza texto)*/
+    color:darkturquoise
+
+
+}
+img{
+    float:right;  /*pone imgen a la derecha*/
+    margin-bottom: 50px;    /*pone imgen con espacio*/
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
